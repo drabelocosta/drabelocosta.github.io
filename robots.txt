@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drabelocosta.github.io/sitemap.xml
